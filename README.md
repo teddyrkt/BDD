@@ -1,6 +1,8 @@
-================================
-  GESTION PRODUITS — Projet ALSI61
-  WAN William | LO Hsiao-Wen-Paul | RAKOTOARIVELO Teddy
+
+  GESTION PRODUITS — Projet BDD
+  WAN William |
+  LO Hsiao-Wen-Paul | 
+  RAKOTOARIVELO Teddy
 ================================
 
 DOMAINE : Système de gestion de produits (retail/e-commerce)
