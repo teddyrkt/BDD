@@ -1,7 +1,7 @@
-===================================================
+================================
   GESTION PRODUITS — Projet ALSI61
   WAN William | LO Hsiao-Wen-Paul | RAKOTOARIVELO Teddy
-===================================================
+================================
 
 DOMAINE : Système de gestion de produits (retail/e-commerce)
 LANGAGE : Python 3 + Django 4.2
